@@ -2,10 +2,9 @@
   "name": "user-quiz-frontend",
   "version": "1.0.0",
   "description": "Louise opg 1",
-  "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "parcel watch index.html"
+    "dev": "parcel serve index.html"
   },
   "author": "Louise",
   "license": "ISC",

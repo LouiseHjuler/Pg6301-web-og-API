@@ -1,4 +1,4 @@
-export function randomQuestion() {
+    export function randomQuestion() {
     return Questions[Math.trunc(Math.random() * Questions.length)];
 }
 
